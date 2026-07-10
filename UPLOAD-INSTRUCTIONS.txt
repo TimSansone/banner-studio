@@ -1,0 +1,13 @@
+Banner Studio - Prebuilt GitHub Pages Files
+
+Upload ALL files and folders from this directory directly into the root of a public GitHub repository named: banner-studio
+
+The root of the repository must contain index.html and the _next folder.
+
+Then open repository Settings > Pages and choose:
+Source: Deploy from a branch
+Branch: main
+Folder: / (root)
+
+Save and wait a few minutes. The site URL will be:
+https://YOUR-USERNAME.github.io/banner-studio/
